@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @martdudek and I’m a teacher
+- 👀 I’m interested in art 
+- 🌱 I’m currently learning Angular, JS, TS
